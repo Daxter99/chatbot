@@ -1,6 +1,5 @@
 pip
 tensorflow 
 keras 
-pickle
 nltk
 flask
